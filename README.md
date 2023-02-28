@@ -1,6 +1,7 @@
 # Multilevel Sentence Embeddings
 
-This repository contains some of the implementation of the paper: TBD
+This repository contains some of the implementation of the paper: TBD  
+
 By combining AdaCos loss and a Pairwise Cosine Loss we show how to train sentence embeddings following a hierarchical structure.
 
 We provide sample scripts to reproduce the training, evaluation and visualization of the results shown for the MNLI dataset.
